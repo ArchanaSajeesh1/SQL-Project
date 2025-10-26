@@ -1,13 +1,13 @@
 # SQL-Project
 
 # 🚀 Project Requirements
-## Building the Data Warehouse (Data Engineering)
+# Building the Data Warehouse (Data Engineering)
 
-# Objective
+## Objective
 
 Develop a modern data warehouse using MySql to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-# Specifications
+## Specifications
 
 Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 
@@ -19,9 +19,9 @@ Scope: Focus on the latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-## BI: Analytics & Reporting (Data Analysis)
+# BI: Analytics & Reporting (Data Analysis)
 
-# Objective
+## Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
